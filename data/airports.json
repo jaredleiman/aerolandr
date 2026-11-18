@@ -1,0 +1,1624 @@
+{
+  "generated": "2026-11-17T21:24:55.913Z",
+  "source": "OurAirports (public domain)",
+  "pool": "phase3",
+  "airports": [
+    {
+      "ident": "KSFO",
+      "iata": "SFO",
+      "name": "San Francisco International Airport",
+      "city": "San Francisco",
+      "country": "US",
+      "continent": "NA",
+      "lat": 37.619806,
+      "lon": -122.374821,
+      "elevationFt": 13,
+      "runway": {
+        "ident": "28R",
+        "oppositeIdent": "10L",
+        "lengthFt": 11870,
+        "widthFt": 200,
+        "surface": "ASP",
+        "end": {
+          "lat": 37.613538,
+          "lon": -122.35716
+        },
+        "oppositeEnd": {
+          "lat": 37.628742,
+          "lon": -122.39341
+        },
+        "displacedThresholdFt": 300
+      },
+      "threshold": {
+        "lat": 37.613923,
+        "lon": -122.3580773,
+        "elevationFt": 13
+      },
+      "finalBearingTrue": 297.91,
+      "alternate": {
+        "ident": "10L",
+        "threshold": {
+          "lat": 37.628742,
+          "lon": -122.39341,
+          "elevationFt": 5
+        },
+        "finalBearingTrue": 117.89,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 298,
+      "glidepathDeg": 3,
+      "requestedEnd": "28R",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Runway 28R starts at the shoreline of San Francisco Bay, so most of the final approach is flown over open bay water."
+    },
+    {
+      "ident": "KSAN",
+      "iata": "SAN",
+      "name": "San Diego International Airport",
+      "city": "San Diego",
+      "country": "US",
+      "continent": "NA",
+      "lat": 32.733601,
+      "lon": -117.190002,
+      "elevationFt": 17,
+      "runway": {
+        "ident": "09",
+        "oppositeIdent": "27",
+        "lengthFt": 9401,
+        "widthFt": 200,
+        "surface": "ASP",
+        "end": {
+          "lat": 32.737129,
+          "lon": -117.204371
+        },
+        "oppositeEnd": {
+          "lat": 32.730004,
+          "lon": -117.17499
+        },
+        "displacedThresholdFt": 1000
+      },
+      "threshold": {
+        "lat": 32.73637,
+        "lon": -117.2012397,
+        "elevationFt": 14
+      },
+      "finalBearingTrue": 106.07,
+      "alternate": {
+        "ident": "27",
+        "threshold": {
+          "lat": 32.7313758,
+          "lon": -117.1806444,
+          "elevationFt": 13
+        },
+        "finalBearingTrue": 286.09,
+        "displacedThresholdFt": 1806
+      },
+      "publishedHeadingTrue": 106,
+      "glidepathDeg": 3.5,
+      "requestedEnd": "09",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "The final to runway 9 comes in off the Pacific, crosses the coast near Ocean Beach just south of the San Diego River mouth, and lands on a runway along San Diego Bay."
+    },
+    {
+      "ident": "KDCA",
+      "iata": "DCA",
+      "name": "Ronald Reagan Washington National Airport",
+      "city": "Washington",
+      "country": "US",
+      "continent": "NA",
+      "lat": 38.8521,
+      "lon": -77.037697,
+      "elevationFt": 15,
+      "runway": {
+        "ident": "19",
+        "oppositeIdent": "01",
+        "lengthFt": 7169,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 38.8611984,
+          "lon": -77.0386963
+        },
+        "oppositeEnd": {
+          "lat": 38.8423996,
+          "lon": -77.0367966
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 38.8611984,
+        "lon": -77.0386963,
+        "elevationFt": 13
+      },
+      "finalBearingTrue": 175.5,
+      "alternate": {
+        "ident": "01",
+        "threshold": {
+          "lat": 38.8423996,
+          "lon": -77.0367966,
+          "elevationFt": 12
+        },
+        "finalBearingTrue": 355.5,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 176,
+      "glidepathDeg": 3,
+      "requestedEnd": "19",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Reagan National sits on the west bank of the Potomac River, across from Washington, D.C., which this final crosses from the north."
+    },
+    {
+      "ident": "KLGA",
+      "iata": "LGA",
+      "name": "LaGuardia Airport",
+      "city": "New York",
+      "country": "US",
+      "continent": "NA",
+      "lat": 40.777199,
+      "lon": -73.872597,
+      "elevationFt": 21,
+      "runway": {
+        "ident": "04",
+        "oppositeIdent": "22",
+        "lengthFt": 7002,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 40.7691994,
+          "lon": -73.8841019
+        },
+        "oppositeEnd": {
+          "lat": 40.7854004,
+          "lon": -73.870697
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 40.7691994,
+        "lon": -73.8841019,
+        "elevationFt": 22
+      },
+      "finalBearingTrue": 32.07,
+      "alternate": {
+        "ident": "22",
+        "threshold": {
+          "lat": 40.7854004,
+          "lon": -73.870697,
+          "elevationFt": 13
+        },
+        "finalBearingTrue": 212.07,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 32,
+      "glidepathDeg": 3,
+      "requestedEnd": "04",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "The final to runway 4 crosses the rooftops of Brooklyn and western Queens, with the Manhattan skyline off to the left and the airport on the Flushing Bay waterfront ahead."
+    },
+    {
+      "ident": "KSEA",
+      "iata": "SEA",
+      "name": "Seattle–Tacoma International Airport",
+      "city": "Seattle",
+      "country": "US",
+      "continent": "NA",
+      "lat": 47.447943,
+      "lon": -122.310276,
+      "elevationFt": 433,
+      "runway": {
+        "ident": "16L",
+        "oppositeIdent": "34R",
+        "lengthFt": 11901,
+        "widthFt": 150,
+        "surface": "PEM",
+        "end": {
+          "lat": 47.463799,
+          "lon": -122.307999
+        },
+        "oppositeEnd": {
+          "lat": 47.431198,
+          "lon": -122.307999
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 47.463799,
+        "lon": -122.307999,
+        "elevationFt": 432
+      },
+      "finalBearingTrue": 180,
+      "alternate": {
+        "ident": "34R",
+        "threshold": {
+          "lat": 47.431198,
+          "lon": -122.307999,
+          "elevationFt": 347
+        },
+        "finalBearingTrue": 0,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 180,
+      "glidepathDeg": 3,
+      "requestedEnd": "16R",
+      "selectionNote": "requested 16R is not on the longest runway (16L/34R, 11901 ft); flying 16L (0.0° from requested direction)",
+      "difficulty": "medium",
+      "tell": "Sea-Tac's three parallel north–south runways sit on high ground south of downtown Seattle, between Puget Sound and the Duwamish valley."
+    },
+    {
+      "ident": "KMIA",
+      "iata": "MIA",
+      "name": "Miami International Airport",
+      "city": "Miami",
+      "country": "US",
+      "continent": "NA",
+      "lat": 25.796011,
+      "lon": -80.289751,
+      "elevationFt": 8,
+      "runway": {
+        "ident": "09",
+        "oppositeIdent": "27",
+        "lengthFt": 13016,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 25.7861,
+          "lon": -80.314796
+        },
+        "oppositeEnd": {
+          "lat": 25.787701,
+          "lon": -80.275398
+        },
+        "displacedThresholdFt": 1350
+      },
+      "threshold": {
+        "lat": 25.7862673,
+        "lon": -80.3106904,
+        "elevationFt": 7
+      },
+      "finalBearingTrue": 87.41,
+      "alternate": {
+        "ident": "27",
+        "threshold": {
+          "lat": 25.7876681,
+          "lon": -80.27621,
+          "elevationFt": 8
+        },
+        "finalBearingTrue": 267.42,
+        "displacedThresholdFt": 267
+      },
+      "publishedHeadingTrue": 87,
+      "glidepathDeg": 3,
+      "requestedEnd": "09",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Runway 9 points east across Miami's flat street grid toward downtown and Biscayne Bay."
+    },
+    {
+      "ident": "PHNL",
+      "iata": "HNL",
+      "name": "Daniel K. Inouye International Airport",
+      "city": "Honolulu, Oahu",
+      "country": "US",
+      "continent": "OC",
+      "lat": 21.318387,
+      "lon": -157.92567,
+      "elevationFt": 13,
+      "runway": {
+        "ident": "26R",
+        "oppositeIdent": "08L",
+        "lengthFt": 12360,
+        "widthFt": 200,
+        "surface": "ASPH-G",
+        "end": {
+          "lat": 21.3251991,
+          "lon": -157.9069977
+        },
+        "oppositeEnd": {
+          "lat": 21.3251991,
+          "lon": -157.9429932
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 21.3251991,
+        "lon": -157.9069977,
+        "elevationFt": 9
+      },
+      "finalBearingTrue": 270.01,
+      "alternate": {
+        "ident": "08L",
+        "threshold": {
+          "lat": 21.3251991,
+          "lon": -157.9429932,
+          "elevationFt": 12
+        },
+        "finalBearingTrue": 89.99,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 270,
+      "glidepathDeg": 4,
+      "requestedEnd": "26R",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "This westbound final runs along the hills just behind Honolulu, with Tantalus close on the right and Punchbowl, downtown, Waikiki and Diamond Head off to the left, then reaches the shore near Ke'ehi Lagoon just before the runway."
+    },
+    {
+      "ident": "KLAS",
+      "iata": "LAS",
+      "name": "Harry Reid International Airport",
+      "city": "Las Vegas",
+      "country": "US",
+      "continent": "NA",
+      "lat": 36.083361,
+      "lon": -115.151817,
+      "elevationFt": 2181,
+      "runway": {
+        "ident": "26R",
+        "oppositeIdent": "08L",
+        "lengthFt": 14835,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 36.076333,
+          "lon": -115.121
+        },
+        "oppositeEnd": {
+          "lat": 36.076333,
+          "lon": -115.171333
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 36.076333,
+        "lon": -115.121,
+        "elevationFt": 2044
+      },
+      "finalBearingTrue": 270.01,
+      "alternate": {
+        "ident": "08L",
+        "threshold": {
+          "lat": 36.0763343,
+          "lon": -115.1640786,
+          "elevationFt": 2155
+        },
+        "finalBearingTrue": 89.99,
+        "displacedThresholdFt": 2139
+      },
+      "publishedHeadingTrue": 270,
+      "glidepathDeg": 3,
+      "requestedEnd": "26R",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Harry Reid International sits in a desert basin ringed by mountains, with the Las Vegas Strip along the airport's western edge."
+    },
+    {
+      "ident": "LPMA",
+      "iata": "FNC",
+      "name": "Cristiano Ronaldo International Airport",
+      "city": "Funchal",
+      "country": "PT",
+      "continent": "EU",
+      "lat": 32.697812,
+      "lon": -16.774613,
+      "elevationFt": 192,
+      "runway": {
+        "ident": "05",
+        "oppositeIdent": "23",
+        "lengthFt": 9110,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": 32.6889992,
+          "lon": -16.7847996
+        },
+        "oppositeEnd": {
+          "lat": 32.7067986,
+          "lon": -16.7639999
+        },
+        "displacedThresholdFt": 480
+      },
+      "threshold": {
+        "lat": 32.6899374,
+        "lon": -16.7837035,
+        "elevationFt": 147
+      },
+      "finalBearingTrue": 44.51,
+      "alternate": {
+        "ident": "23",
+        "threshold": {
+          "lat": 32.705841,
+          "lon": -16.7651193,
+          "elevationFt": 192
+        },
+        "finalBearingTrue": 224.53,
+        "displacedThresholdFt": 490
+      },
+      "publishedHeadingTrue": 44.7,
+      "glidepathDeg": 4.5,
+      "requestedEnd": "05",
+      "selectionNote": null,
+      "difficulty": "hard",
+      "tell": "A single runway squeezed onto Madeira's southeast coast between the Atlantic and steep volcanic mountains; part of it stands on pillars over the shore."
+    },
+    {
+      "ident": "TNCM",
+      "iata": "SXM",
+      "name": "Princess Juliana International Airport",
+      "city": "Sint Maarten",
+      "country": "SX",
+      "continent": "NA",
+      "lat": 18.041,
+      "lon": -63.108898,
+      "elevationFt": 13,
+      "runway": {
+        "ident": "10",
+        "oppositeIdent": "28",
+        "lengthFt": 7546,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": 18.039389,
+          "lon": -63.1197
+        },
+        "oppositeEnd": {
+          "lat": 18.042464,
+          "lon": -63.098216
+        },
+        "displacedThresholdFt": 310
+      },
+      "threshold": {
+        "lat": 18.0395155,
+        "lon": -63.1188163,
+        "elevationFt": 13
+      },
+      "finalBearingTrue": 81.44,
+      "alternate": {
+        "ident": "28",
+        "threshold": {
+          "lat": 18.042464,
+          "lon": -63.098216,
+          "elevationFt": 9
+        },
+        "finalBearingTrue": 261.44,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 96,
+      "glidepathDeg": 3,
+      "requestedEnd": "10",
+      "selectionNote": null,
+      "difficulty": "hard",
+      "tell": "Runway 10 begins just behind Maho Beach, so the final approach comes in low over Caribbean water and sand."
+    },
+    {
+      "ident": "PANC",
+      "iata": "ANC",
+      "name": "Ted Stevens Anchorage International Airport",
+      "city": "Anchorage",
+      "country": "US",
+      "continent": "NA",
+      "lat": 61.179004,
+      "lon": -149.992561,
+      "elevationFt": 152,
+      "runway": {
+        "ident": "07R",
+        "oppositeIdent": "25L",
+        "lengthFt": 12400,
+        "widthFt": 200,
+        "surface": "ASP",
+        "end": {
+          "lat": 61.167812,
+          "lon": -150.042871
+        },
+        "oppositeEnd": {
+          "lat": 61.167881,
+          "lon": -149.972649
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 61.167812,
+        "lon": -150.042871,
+        "elevationFt": 132
+      },
+      "finalBearingTrue": 89.85,
+      "alternate": {
+        "ident": "25L",
+        "threshold": {
+          "lat": 61.167881,
+          "lon": -149.972649,
+          "elevationFt": 101
+        },
+        "finalBearingTrue": 269.91,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 90,
+      "glidepathDeg": 3,
+      "requestedEnd": "07R",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Runway 7R's final comes in from the west over the waters of Cook Inlet, with the Chugach Mountains rising behind Anchorage ahead."
+    },
+    {
+      "ident": "KSLC",
+      "iata": "SLC",
+      "name": "Salt Lake City International Airport",
+      "city": "Salt Lake City",
+      "country": "US",
+      "continent": "NA",
+      "lat": 40.78886,
+      "lon": -111.979866,
+      "elevationFt": 4227,
+      "runway": {
+        "ident": "16L",
+        "oppositeIdent": "34R",
+        "lengthFt": 12002,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 40.807456,
+          "lon": -111.976947
+        },
+        "oppositeEnd": {
+          "lat": 40.774646,
+          "lon": -111.973146
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 40.807456,
+        "lon": -111.976947,
+        "elevationFt": 4226
+      },
+      "finalBearingTrue": 174.99,
+      "alternate": {
+        "ident": "34R",
+        "threshold": {
+          "lat": 40.774646,
+          "lon": -111.973146,
+          "elevationFt": 4221
+        },
+        "finalBearingTrue": 354.99,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 175,
+      "glidepathDeg": 3,
+      "requestedEnd": "16L",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Salt Lake City's runways lie on the flat valley floor between the Great Salt Lake to the west and the Wasatch Range to the east."
+    },
+    {
+      "ident": "KABQ",
+      "iata": "ABQ",
+      "name": "Albuquerque International Sunport",
+      "city": "Albuquerque",
+      "country": "US",
+      "continent": "NA",
+      "lat": 35.039976,
+      "lon": -106.608925,
+      "elevationFt": 5355,
+      "runway": {
+        "ident": "08",
+        "oppositeIdent": "26",
+        "lengthFt": 13793,
+        "widthFt": 150,
+        "surface": "CONC-G",
+        "end": {
+          "lat": 35.0443001,
+          "lon": -106.6220016
+        },
+        "oppositeEnd": {
+          "lat": 35.0441017,
+          "lon": -106.5759964
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 35.0443001,
+        "lon": -106.6220016,
+        "elevationFt": 5315
+      },
+      "finalBearingTrue": 90.29,
+      "alternate": {
+        "ident": "26",
+        "threshold": {
+          "lat": 35.0441017,
+          "lon": -106.5759964,
+          "elevationFt": 5355
+        },
+        "finalBearingTrue": 270.31,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 90,
+      "glidepathDeg": 3,
+      "requestedEnd": "08",
+      "selectionNote": null,
+      "difficulty": "hard",
+      "tell": "Runway 8's final crosses the Rio Grande valley, with the Sandia Mountains rising ahead and to the left."
+    },
+    {
+      "ident": "KPDX",
+      "iata": "PDX",
+      "name": "Portland International Airport",
+      "city": "Portland",
+      "country": "US",
+      "continent": "NA",
+      "lat": 45.588699,
+      "lon": -122.598,
+      "elevationFt": 31,
+      "runway": {
+        "ident": "10R",
+        "oppositeIdent": "28L",
+        "lengthFt": 11000,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 45.595155,
+          "lon": -122.62151
+        },
+        "oppositeEnd": {
+          "lat": 45.580515,
+          "lon": -122.583901
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 45.595155,
+        "lon": -122.62151,
+        "elevationFt": 22
+      },
+      "finalBearingTrue": 119.07,
+      "alternate": {
+        "ident": "28L",
+        "threshold": {
+          "lat": 45.580515,
+          "lon": -122.583901,
+          "elevationFt": 23
+        },
+        "finalBearingTrue": 299.1,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 119,
+      "glidepathDeg": 3,
+      "requestedEnd": "10R",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Portland International sits on the south bank of the Columbia River; this final starts near the river's confluence with the Willamette."
+    },
+    {
+      "ident": "KMSY",
+      "iata": "MSY",
+      "name": "Louis Armstrong New Orleans International Airport",
+      "city": "New Orleans",
+      "country": "US",
+      "continent": "NA",
+      "lat": 29.993401,
+      "lon": -90.264673,
+      "elevationFt": 4,
+      "runway": {
+        "ident": "11",
+        "oppositeIdent": "29",
+        "lengthFt": 10104,
+        "widthFt": 150,
+        "surface": "PEM",
+        "end": {
+          "lat": 29.9965992,
+          "lon": -90.2817001
+        },
+        "oppositeEnd": {
+          "lat": 29.9892006,
+          "lon": -90.2509995
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 29.9965992,
+        "lon": -90.2817001,
+        "elevationFt": 4
+      },
+      "finalBearingTrue": 105.54,
+      "alternate": {
+        "ident": "29",
+        "threshold": {
+          "lat": 29.9894241,
+          "lon": -90.2519263,
+          "elevationFt": 2
+        },
+        "finalBearingTrue": 285.56,
+        "displacedThresholdFt": 304
+      },
+      "publishedHeadingTrue": 106,
+      "glidepathDeg": 3,
+      "requestedEnd": "11",
+      "selectionNote": null,
+      "difficulty": "hard",
+      "tell": "New Orleans' airport sits on a strip of land between the Mississippi River and Lake Pontchartrain, surrounded by wetlands."
+    },
+    {
+      "ident": "KBOS",
+      "iata": "BOS",
+      "name": "Boston Logan International Airport",
+      "city": "Boston",
+      "country": "US",
+      "continent": "NA",
+      "lat": 42.36197,
+      "lon": -71.0079,
+      "elevationFt": 20,
+      "runway": {
+        "ident": "33L",
+        "oppositeIdent": "15R",
+        "lengthFt": 10083,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 42.354599,
+          "lon": -70.9916
+        },
+        "oppositeEnd": {
+          "lat": 42.3742981,
+          "lon": -71.0178986
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 42.354599,
+        "lon": -70.9916,
+        "elevationFt": 15
+      },
+      "finalBearingTrue": 315.4,
+      "alternate": {
+        "ident": "15R",
+        "threshold": {
+          "lat": 42.372581,
+          "lon": -71.0156053,
+          "elevationFt": 17
+        },
+        "finalBearingTrue": 135.38,
+        "displacedThresholdFt": 880
+      },
+      "publishedHeadingTrue": 315,
+      "glidepathDeg": 3,
+      "requestedEnd": "33L",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Logan sits on filled land in Boston Harbor; the final to runway 33L crosses the outer harbor and its islands, with the downtown skyline ahead to the left."
+    },
+    {
+      "ident": "KORD",
+      "iata": "ORD",
+      "name": "Chicago O'Hare International Airport",
+      "city": "Chicago",
+      "country": "US",
+      "continent": "NA",
+      "lat": 41.9786,
+      "lon": -87.9048,
+      "elevationFt": 680,
+      "runway": {
+        "ident": "28R",
+        "oppositeIdent": "10L",
+        "lengthFt": 13000,
+        "widthFt": 150,
+        "surface": "CON",
+        "end": {
+          "lat": 41.969101,
+          "lon": -87.8836975
+        },
+        "oppositeEnd": {
+          "lat": 41.9690018,
+          "lon": -87.9315033
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 41.969101,
+        "lon": -87.8836975,
+        "elevationFt": 651
+      },
+      "finalBearingTrue": 269.86,
+      "alternate": {
+        "ident": "10L",
+        "threshold": {
+          "lat": 41.9690018,
+          "lon": -87.9315033,
+          "elevationFt": 672
+        },
+        "finalBearingTrue": 89.82,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 270,
+      "glidepathDeg": 3,
+      "requestedEnd": "28R",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "O'Hare sits on the flat northwest edge of Chicago; this westbound final crosses the city's dense street grid, with downtown and Lake Michigan behind."
+    },
+    {
+      "ident": "LIRF",
+      "iata": "FCO",
+      "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
+      "city": "Rome",
+      "country": "IT",
+      "continent": "EU",
+      "lat": 41.804532,
+      "lon": 12.251998,
+      "elevationFt": 13,
+      "runway": {
+        "ident": "34R",
+        "oppositeIdent": "16L",
+        "lengthFt": 12801,
+        "widthFt": 196,
+        "surface": "ASP",
+        "end": {
+          "lat": 41.8124008,
+          "lon": 12.2755003
+        },
+        "oppositeEnd": {
+          "lat": 41.8460007,
+          "lon": 12.2615004
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 41.8124008,
+        "lon": 12.2755003,
+        "elevationFt": 6
+      },
+      "finalBearingTrue": 342.76,
+      "alternate": {
+        "ident": "16L",
+        "threshold": {
+          "lat": 41.8460007,
+          "lon": 12.2615004,
+          "elevationFt": 14
+        },
+        "finalBearingTrue": 162.75,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 343,
+      "glidepathDeg": 3,
+      "requestedEnd": "34R",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Fiumicino sits on the coastal plain near the mouth of the Tiber; the final to runway 34R comes in off the Tyrrhenian Sea over the coast near Ostia."
+    },
+    {
+      "ident": "EGLL",
+      "iata": "LHR",
+      "name": "London Heathrow Airport",
+      "city": "London",
+      "country": "GB",
+      "continent": "EU",
+      "lat": 51.470748,
+      "lon": -0.459909,
+      "elevationFt": 83,
+      "runway": {
+        "ident": "27R",
+        "oppositeIdent": "09L",
+        "lengthFt": 12799,
+        "widthFt": 164,
+        "surface": "ASP",
+        "end": {
+          "lat": 51.477681,
+          "lon": -0.433227
+        },
+        "oppositeEnd": {
+          "lat": 51.47749,
+          "lon": -0.489439
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 51.477681,
+        "lon": -0.433227,
+        "elevationFt": 78
+      },
+      "finalBearingTrue": 269.71,
+      "alternate": {
+        "ident": "09L",
+        "threshold": {
+          "lat": 51.477506,
+          "lon": -0.4850071,
+          "elevationFt": 79
+        },
+        "finalBearingTrue": 89.67,
+        "displacedThresholdFt": 1007
+      },
+      "publishedHeadingTrue": 270,
+      "glidepathDeg": 3,
+      "requestedEnd": "27R",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Heathrow lies west of London; this westbound final starts over the Thames near Barnes and crosses the dense suburbs of west London."
+    },
+    {
+      "ident": "YSSY",
+      "iata": "SYD",
+      "name": "Sydney Kingsford Smith International Airport",
+      "city": "Sydney (Mascot)",
+      "country": "AU",
+      "continent": "OC",
+      "lat": -33.946098,
+      "lon": 151.177002,
+      "elevationFt": 21,
+      "runway": {
+        "ident": "34L",
+        "oppositeIdent": "16R",
+        "lengthFt": 12999,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": -33.9642982,
+          "lon": 151.1809998
+        },
+        "oppositeEnd": {
+          "lat": -33.9294014,
+          "lon": 151.1719971
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": -33.9642982,
+        "lon": 151.1809998,
+        "elevationFt": 14
+      },
+      "finalBearingTrue": 347.92,
+      "alternate": {
+        "ident": "16R",
+        "threshold": {
+          "lat": -33.9301492,
+          "lon": 151.1721899,
+          "elevationFt": 8
+        },
+        "finalBearingTrue": 167.92,
+        "displacedThresholdFt": 279
+      },
+      "publishedHeadingTrue": 348,
+      "glidepathDeg": 3,
+      "requestedEnd": "34L",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Sydney's main runway juts out into Botany Bay; the final to 34L crosses the Kurnell peninsula and the open water of the bay."
+    },
+    {
+      "ident": "RJTT",
+      "iata": "HND",
+      "name": "Tokyo Haneda International Airport",
+      "city": "Tokyo",
+      "country": "JP",
+      "continent": "AS",
+      "lat": 35.549678,
+      "lon": 139.786958,
+      "elevationFt": 35,
+      "runway": {
+        "ident": "16L",
+        "oppositeIdent": "34R",
+        "lengthFt": 11024,
+        "widthFt": 200,
+        "surface": "ASP",
+        "end": {
+          "lat": 35.565897,
+          "lon": 139.78655
+        },
+        "oppositeEnd": {
+          "lat": 35.53969,
+          "lon": 139.805142
+        },
+        "displacedThresholdFt": 1280
+      },
+      "threshold": {
+        "lat": 35.5628583,
+        "lon": 139.7887064,
+        "elevationFt": 22
+      },
+      "finalBearingTrue": 150,
+      "alternate": {
+        "ident": "34R",
+        "threshold": {
+          "lat": 35.5424915,
+          "lon": 139.8031552,
+          "elevationFt": 20
+        },
+        "finalBearingTrue": 330.01,
+        "displacedThresholdFt": 1180
+      },
+      "publishedHeadingTrue": 150,
+      "glidepathDeg": 3,
+      "requestedEnd": "16L",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Haneda sits on reclaimed land at the edge of Tokyo Bay; this final crosses the dense city of central Tokyo before reaching the bay shore."
+    },
+    {
+      "ident": "WSSS",
+      "iata": "SIN",
+      "name": "Singapore Changi Airport",
+      "city": "Singapore",
+      "country": "SG",
+      "continent": "AS",
+      "lat": 1.35019,
+      "lon": 103.994003,
+      "elevationFt": 22,
+      "runway": {
+        "ident": "02C",
+        "oppositeIdent": "20C",
+        "lengthFt": 13123,
+        "widthFt": 197,
+        "surface": "PEM",
+        "end": {
+          "lat": 1.3288,
+          "lon": 103.985001
+        },
+        "oppositeEnd": {
+          "lat": 1.36213,
+          "lon": 103.999001
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 1.3288,
+        "lon": 103.985001,
+        "elevationFt": 16
+      },
+      "finalBearingTrue": 22.78,
+      "alternate": {
+        "ident": "20C",
+        "threshold": {
+          "lat": 1.36213,
+          "lon": 103.999001,
+          "elevationFt": 16
+        },
+        "finalBearingTrue": 202.78,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 23,
+      "glidepathDeg": 3,
+      "requestedEnd": "02C",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Changi sits on reclaimed land at Singapore's eastern tip, and this final comes in over the Singapore Strait."
+    },
+    {
+      "ident": "OMDB",
+      "iata": "DXB",
+      "name": "Dubai International Airport",
+      "city": "Dubai",
+      "country": "AE",
+      "continent": "AS",
+      "lat": 25.24979,
+      "lon": 55.370992,
+      "elevationFt": 62,
+      "runway": {
+        "ident": "12R",
+        "oppositeIdent": "30L",
+        "lengthFt": 14590,
+        "widthFt": 197,
+        "surface": "ASP",
+        "end": {
+          "lat": 25.2528362,
+          "lon": 55.3643761
+        },
+        "oppositeEnd": {
+          "lat": 25.23592,
+          "lon": 55.3948822
+        },
+        "displacedThresholdFt": 2345
+      },
+      "threshold": {
+        "lat": 25.2494771,
+        "lon": 55.3704354,
+        "elevationFt": 11
+      },
+      "finalBearingTrue": 121.5,
+      "alternate": {
+        "ident": "30L",
+        "threshold": {
+          "lat": 25.2365404,
+          "lon": 55.3937636,
+          "elevationFt": 60
+        },
+        "finalBearingTrue": 301.52,
+        "displacedThresholdFt": 433
+      },
+      "publishedHeadingTrue": 121,
+      "glidepathDeg": 3,
+      "requestedEnd": "12R",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Dubai International sits just inland from the Gulf; this final comes in off the Persian Gulf over the Deira waterfront."
+    },
+    {
+      "ident": "LSGG",
+      "iata": "GVA",
+      "name": "Geneva International Airport",
+      "city": "Geneva",
+      "country": "CH",
+      "continent": "EU",
+      "lat": 46.238098,
+      "lon": 6.10895,
+      "elevationFt": 1411,
+      "runway": {
+        "ident": "22",
+        "oppositeIdent": "04",
+        "lengthFt": 12795,
+        "widthFt": 164,
+        "surface": "CON",
+        "end": {
+          "lat": 46.250401,
+          "lon": 6.12699
+        },
+        "oppositeEnd": {
+          "lat": 46.2258,
+          "lon": 6.09092
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 46.250401,
+        "lon": 6.12699,
+        "elevationFt": 1365
+      },
+      "finalBearingTrue": 225.41,
+      "alternate": {
+        "ident": "04",
+        "threshold": {
+          "lat": 46.2278829,
+          "lon": 6.093972,
+          "elevationFt": 1411
+        },
+        "finalBearingTrue": 45.39,
+        "displacedThresholdFt": 1082
+      },
+      "publishedHeadingTrue": 226,
+      "glidepathDeg": 3,
+      "requestedEnd": "22",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Geneva's single runway lies just beyond the western end of the lake; the final to runway 22 flies in down Lake Geneva, with the Jura mountains ahead to the right."
+    },
+    {
+      "ident": "LOWI",
+      "iata": "INN",
+      "name": "Innsbruck Airport",
+      "city": "Innsbruck",
+      "country": "AT",
+      "continent": "EU",
+      "lat": 47.260201,
+      "lon": 11.344,
+      "elevationFt": 1907,
+      "runway": {
+        "ident": "26",
+        "oppositeIdent": "08",
+        "lengthFt": 6562,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": 47.2616005,
+          "lon": 11.3570004
+        },
+        "oppositeEnd": {
+          "lat": 47.2588005,
+          "lon": 11.3309002
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 47.2616005,
+        "lon": 11.3570004,
+        "elevationFt": 1894
+      },
+      "finalBearingTrue": 261.03,
+      "alternate": {
+        "ident": "08",
+        "threshold": {
+          "lat": 47.2589457,
+          "lon": 11.3322525,
+          "elevationFt": 1907
+        },
+        "finalBearingTrue": 81.01,
+        "displacedThresholdFt": 339
+      },
+      "publishedHeadingTrue": 261,
+      "glidepathDeg": 3,
+      "requestedEnd": "26",
+      "selectionNote": null,
+      "difficulty": "hard",
+      "tell": "Innsbruck's runway lies on the floor of the Inn valley; this westbound final passes over the city with the Nordkette range rising steeply to the right."
+    },
+    {
+      "ident": "LXGB",
+      "iata": "GIB",
+      "name": "Gibraltar Airport",
+      "city": "Gibraltar",
+      "country": "GI",
+      "continent": "EU",
+      "lat": 36.151679,
+      "lon": -5.34978,
+      "elevationFt": 12,
+      "runway": {
+        "ident": "09",
+        "oppositeIdent": "27",
+        "lengthFt": 6000,
+        "widthFt": 150,
+        "surface": "ASP",
+        "end": {
+          "lat": 36.150829,
+          "lon": -5.359622
+        },
+        "oppositeEnd": {
+          "lat": 36.151513,
+          "lon": -5.340055
+        },
+        "displacedThresholdFt": 302
+      },
+      "threshold": {
+        "lat": 36.1508649,
+        "lon": -5.3585978,
+        "elevationFt": 10
+      },
+      "finalBearingTrue": 87.52,
+      "alternate": {
+        "ident": "27",
+        "threshold": {
+          "lat": 36.1514695,
+          "lon": -5.3413031,
+          "elevationFt": 11
+        },
+        "finalBearingTrue": 267.53,
+        "displacedThresholdFt": 368
+      },
+      "publishedHeadingTrue": 88,
+      "glidepathDeg": 3,
+      "requestedEnd": "09",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Gibraltar's runway crosses the narrow isthmus to Spain; this eastbound final crosses the Bay of Gibraltar, with the Rock rising to the right of the runway."
+    },
+    {
+      "ident": "LPPT",
+      "iata": "LIS",
+      "name": "Lisbon Humberto Delgado Airport",
+      "city": "Lisbon",
+      "country": "PT",
+      "continent": "EU",
+      "lat": 38.7813,
+      "lon": -9.13592,
+      "elevationFt": 374,
+      "runway": {
+        "ident": "02",
+        "oppositeIdent": "20",
+        "lengthFt": 12500,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": 38.765678,
+          "lon": -9.144302
+        },
+        "oppositeEnd": {
+          "lat": 38.797313,
+          "lon": -9.127376
+        },
+        "displacedThresholdFt": 290
+      },
+      "threshold": {
+        "lat": 38.7664117,
+        "lon": -9.1439096,
+        "elevationFt": 331
+      },
+      "finalBearingTrue": 22.64,
+      "alternate": {
+        "ident": "20",
+        "threshold": {
+          "lat": 38.7923546,
+          "lon": -9.13003,
+          "elevationFt": 347
+        },
+        "finalBearingTrue": 202.65,
+        "displacedThresholdFt": 1960
+      },
+      "publishedHeadingTrue": 22,
+      "glidepathDeg": 3,
+      "requestedEnd": "02",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "This northbound final crosses the Tagus estuary and then flies low over Lisbon's hills to a runway inside the city."
+    },
+    {
+      "ident": "LFMN",
+      "iata": "NCE",
+      "name": "Nice-Côte d'Azur Airport",
+      "city": "Nice, Alpes-Maritimes",
+      "country": "FR",
+      "continent": "EU",
+      "lat": 43.658401,
+      "lon": 7.21587,
+      "elevationFt": 12,
+      "runway": {
+        "ident": "22L",
+        "oppositeIdent": "04R",
+        "lengthFt": 9721,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": 43.6655998,
+          "lon": 7.2284398
+        },
+        "oppositeEnd": {
+          "lat": 43.6467018,
+          "lon": 7.2024899
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": 43.6655998,
+        "lon": 7.2284398,
+        "elevationFt": 12
+      },
+      "finalBearingTrue": 224.82,
+      "alternate": {
+        "ident": "04R",
+        "threshold": {
+          "lat": 43.6467018,
+          "lon": 7.2024899,
+          "elevationFt": 10
+        },
+        "finalBearingTrue": 44.8,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 225,
+      "glidepathDeg": 3.5,
+      "requestedEnd": "22L",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Nice airport is built out into the Baie des Anges on the Var delta; this southwest-bound final follows the Riviera coast past the city of Nice."
+    },
+    {
+      "ident": "NZAA",
+      "iata": "AKL",
+      "name": "Auckland International Airport",
+      "city": "Auckland",
+      "country": "NZ",
+      "continent": "OC",
+      "lat": -37.01199,
+      "lon": 174.786331,
+      "elevationFt": 23,
+      "runway": {
+        "ident": "05R",
+        "oppositeIdent": "23L",
+        "lengthFt": 11926,
+        "widthFt": 148,
+        "surface": "CON",
+        "end": {
+          "lat": -37.017101,
+          "lon": 174.766998
+        },
+        "oppositeEnd": {
+          "lat": -37.006699,
+          "lon": 174.804993
+        },
+        "displacedThresholdFt": 1125
+      },
+      "threshold": {
+        "lat": -37.0161014,
+        "lon": 174.7706516,
+        "elevationFt": 15
+      },
+      "finalBearingTrue": 71.09,
+      "alternate": {
+        "ident": "23L",
+        "threshold": {
+          "lat": -37.006699,
+          "lon": 174.804993,
+          "elevationFt": 23
+        },
+        "finalBearingTrue": 251.06,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 72,
+      "glidepathDeg": 3,
+      "requestedEnd": "05R",
+      "selectionNote": null,
+      "difficulty": "hard",
+      "tell": "Auckland Airport sits on the shore of the Manukau Harbour; this final comes in low over the harbour's tidal waters."
+    },
+    {
+      "ident": "FACT",
+      "iata": "CPT",
+      "name": "Cape Town International Airport",
+      "city": "Cape Town",
+      "country": "ZA",
+      "continent": "AF",
+      "lat": -33.97403,
+      "lon": 18.604333,
+      "elevationFt": 151,
+      "runway": {
+        "ident": "01",
+        "oppositeIdent": "19",
+        "lengthFt": 10502,
+        "widthFt": 200,
+        "surface": "ASP",
+        "end": {
+          "lat": -33.9877014,
+          "lon": 18.6089001
+        },
+        "oppositeEnd": {
+          "lat": -33.9598007,
+          "lon": 18.6000004
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": -33.9877014,
+        "lon": 18.6089001,
+        "elevationFt": 144
+      },
+      "finalBearingTrue": 345.18,
+      "alternate": {
+        "ident": "19",
+        "threshold": {
+          "lat": -33.9598007,
+          "lon": 18.6000004,
+          "elevationFt": 147
+        },
+        "finalBearingTrue": 165.19,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 346,
+      "glidepathDeg": 3,
+      "requestedEnd": "01",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "This northbound final crosses the False Bay coast and the sandy Cape Flats, with Table Mountain ahead to the left."
+    },
+    {
+      "ident": "SBRJ",
+      "iata": "SDU",
+      "name": "Santos Dumont Airport",
+      "city": "Rio de Janeiro",
+      "country": "BR",
+      "continent": "SA",
+      "lat": -22.910397,
+      "lon": -43.16282,
+      "elevationFt": 11,
+      "runway": {
+        "ident": "20L",
+        "oppositeIdent": "02R",
+        "lengthFt": 4341,
+        "widthFt": 138,
+        "surface": "ASP",
+        "end": {
+          "lat": -22.904722,
+          "lon": -43.163333
+        },
+        "oppositeEnd": {
+          "lat": -22.916389,
+          "lon": -43.1625
+        },
+        "displacedThresholdFt": 0
+      },
+      "threshold": {
+        "lat": -22.904722,
+        "lon": -43.163333,
+        "elevationFt": 10
+      },
+      "finalBearingTrue": 176.24,
+      "alternate": {
+        "ident": "02R",
+        "threshold": {
+          "lat": -22.916389,
+          "lon": -43.1625,
+          "elevationFt": 9
+        },
+        "finalBearingTrue": 356.24,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 177,
+      "glidepathDeg": 3,
+      "requestedEnd": "20L",
+      "selectionNote": null,
+      "difficulty": "easy",
+      "tell": "Santos Dumont sits on the shore of Guanabara Bay in central Rio; this southbound final crosses the bay toward Sugarloaf Mountain at its mouth."
+    },
+    {
+      "ident": "CYVR",
+      "iata": "YVR",
+      "name": "Vancouver International Airport",
+      "city": "Vancouver",
+      "country": "CA",
+      "continent": "NA",
+      "lat": 49.193901,
+      "lon": -123.183998,
+      "elevationFt": 14,
+      "runway": {
+        "ident": "08R",
+        "oppositeIdent": "26L",
+        "lengthFt": 11500,
+        "widthFt": 200,
+        "surface": "ASP",
+        "end": {
+          "lat": 49.1901016,
+          "lon": -123.2080002
+        },
+        "oppositeEnd": {
+          "lat": 49.1843987,
+          "lon": -123.1610031
+        },
+        "displacedThresholdFt": 697
+      },
+      "threshold": {
+        "lat": 49.1897534,
+        "lon": -123.2051258,
+        "elevationFt": 9
+      },
+      "finalBearingTrue": 100.5,
+      "alternate": {
+        "ident": "26L",
+        "threshold": {
+          "lat": 49.1843987,
+          "lon": -123.1610031,
+          "elevationFt": 6
+        },
+        "finalBearingTrue": 280.54,
+        "displacedThresholdFt": 0
+      },
+      "publishedHeadingTrue": 100.3,
+      "glidepathDeg": 3.5,
+      "requestedEnd": "08R",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Vancouver International sits on Sea Island in the Fraser River delta; this eastbound final crosses the Strait of Georgia, with the North Shore Mountains to the left."
+    },
+    {
+      "ident": "MMMX",
+      "iata": "MEX",
+      "name": "Mexico City Benito Juárez International Airport",
+      "city": "Mexico City",
+      "country": "MX",
+      "continent": "NA",
+      "lat": 19.435822,
+      "lon": -99.07033,
+      "elevationFt": 7316,
+      "runway": {
+        "ident": "05L",
+        "oppositeIdent": "23R",
+        "lengthFt": 12966,
+        "widthFt": 148,
+        "surface": "ASP",
+        "end": {
+          "lat": 19.4276009,
+          "lon": -99.0904999
+        },
+        "oppositeEnd": {
+          "lat": 19.4456997,
+          "lon": -99.058197
+        },
+        "displacedThresholdFt": 1034
+      },
+      "threshold": {
+        "lat": 19.4290488,
+        "lon": -99.0879162,
+        "elevationFt": 7309
+      },
+      "finalBearingTrue": 59.28,
+      "alternate": {
+        "ident": "23R",
+        "threshold": {
+          "lat": 19.4434024,
+          "lon": -99.0622982,
+          "elevationFt": 7311
+        },
+        "finalBearingTrue": 239.29,
+        "displacedThresholdFt": 1641
+      },
+      "publishedHeadingTrue": 59.4,
+      "glidepathDeg": 5.5,
+      "requestedEnd": "05L",
+      "selectionNote": null,
+      "difficulty": "medium",
+      "tell": "Mexico City's airport sits on the old bed of Lake Texcoco; this northeast-bound final crosses the dense city grid of the Valley of Mexico."
+    }
+  ]
+}
